@@ -150,6 +150,11 @@ function App() {
               itemName: "buckler",
               cost: 30,
               xy: [63, 59]
+            },
+            {
+              itemName: "testtwo",
+              cost: 30,
+              xy: [63, 59]
             }
           ]
         }
